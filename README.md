@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirali Bakhshandeh
-- 👀 I’m interested in Programming 🧑‍💻,Musical InstrInstruments 🎶 , And On Basketball🏀
-- 🌱 I’m currently learning IOnic
+- 👀 I’m interested in Programming 🧑‍💻,Musical InstrInstruments 🎶 , And  Basketball🏀
+- 🌱 I’m currently learning Vue js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me im in your hearts ❤️ {email : 'amiralibakhshandeh86@gmail.com'}
 
